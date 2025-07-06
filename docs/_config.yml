@@ -3,8 +3,8 @@ theme: minima
 title: StatWell Consulting Github
 author: SWC Admin
 description: Showcasing software products of StatWell Consulting
-#locale: da-DK
-#url: "https://swc-adm.github.io/"
-#baseurl: "/statwell"
-#repository: "swc-adm/statwell"
+locale: da-DK
+url: https://swc-adm.github.io/
+baseurl: /statwell
+repository: swc-adm/statwell
 
