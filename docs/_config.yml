@@ -1,10 +1,10 @@
 
 
-theme: "minima"
-locale: "da-DK"
-title: "StatWell Consulting Github"
-name: "SWC Admin"
-description: "Showcasing software products of StatWell Consulting"
+theme: minima
+locale: da-DK
+title: StatWell Consulting Github
+name: SWC Admin
+description: Showcasing software products of StatWell Consulting
 #url: "https://swc-adm.github.io/"
 #baseurl: "/statwell"
 #repository: "swc-adm/statwell"
