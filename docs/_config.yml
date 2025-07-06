@@ -8,3 +8,7 @@ url: https://swc-adm.github.io/
 baseurl: /statwell
 repository: swc-adm/statwell
 
+minima:
+  header_pages:
+    - index.md
+
