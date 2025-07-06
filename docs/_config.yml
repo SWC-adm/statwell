@@ -1,5 +1,5 @@
 
-theme: minima
+theme: "minima"
 locale: "da-DK"
 title: "StatWell Consulting Github"
 name: "SWC Admin"
